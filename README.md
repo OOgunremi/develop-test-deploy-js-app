@@ -7,4 +7,4 @@
 
  - Test the app.
 
- - Deploy the app using a docker container to AWS
+ - Deploy the app using a docker container to AWS.
